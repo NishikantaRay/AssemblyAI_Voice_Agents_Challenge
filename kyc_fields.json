@@ -1,0 +1,66 @@
+{
+  "personalInfo": {
+    "firstName": {
+      "label": "First Name",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your first name"
+    },
+    "lastName": {
+      "label": "Last Name",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your last name"
+    },
+    "dateOfBirth": {
+      "label": "Date of Birth",
+      "required": true,
+      "type": "date",
+      "prompt": "Please tell me your date of birth"
+    },
+    "phoneNumber": {
+      "label": "Phone Number",
+      "required": true,
+      "type": "tel",
+      "prompt": "Please tell me your phone number"
+    },
+    "email": {
+      "label": "Email Address",
+      "required": true,
+      "type": "email",
+      "prompt": "Please tell me your email address"
+    }
+  },
+  "address": {
+    "street": {
+      "label": "Street Address",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your street address"
+    },
+    "city": {
+      "label": "City",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your city"
+    },
+    "state": {
+      "label": "State/Province",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your state or province"
+    },
+    "zipCode": {
+      "label": "ZIP/Postal Code",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your ZIP or postal code"
+    },
+    "country": {
+      "label": "Country",
+      "required": true,
+      "type": "text",
+      "prompt": "Please tell me your country"
+    }
+  }
+}
